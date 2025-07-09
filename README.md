@@ -1,5 +1,5 @@
 
-```md
+
 # 🌐 Simple Website with Kobweb
 
 A minimal website project built using **Kobweb** and **JetBrains Compose for Web**, created to explore Kobweb’s component model, theming, and layout system — including light/dark mode switching and CSS utilities.
