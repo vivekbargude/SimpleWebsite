@@ -75,7 +75,6 @@ simple\_website/
    ```bash
    npm install -g @varabyte/kobweb
    # or via Yarn / pnpm
-````
 
 2. **Create & Run Project**
 
