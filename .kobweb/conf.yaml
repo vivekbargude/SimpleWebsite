@@ -1,0 +1,14 @@
+site:
+  title: "Simple_website"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/simple_wesbsite.js"
+      api: "build/libs/simple_wesbsite.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/simple_wesbsite.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080

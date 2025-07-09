@@ -1,0 +1,12 @@
+abi_version=2.2.0
+builtins_platform=JS
+compiler_version=2.2.0
+depends=org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.html\:html-core com.varabyte.kobweb\:kobweb-silk com.varabyte.kobweb\:kobweb-core com.varabyte.kobwebx\:silk-icons-fa com.varabyte.kobwebx\:kobwebx-markdown org.jetbrains.compose.html\:internal-html-core-runtime com.varabyte.kobweb\:silk-widgets-kobweb com.varabyte.kobweb\:silk-widgets com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:kobweb-worker-interface com.varabyte.kobwebx\:kobwebx-frontmatter com.varabyte.kobweb\:browser-ext org.jetbrains.kotlinx\:kotlinx-coroutines-core com.varabyte.kobweb\:framework-annotations org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=simple_wesbsite
+language_features=+JsAllowValueClassesInExternals +MultiPlatformProjects
+metadata_version=1.4.1
+serializedIrFileFingerprints=502xa0uxmd4z.5u47ol8vl0lz 16lq37kfd02x8.194blj8akjoyl 296pc4ef93ehq.22g46sw51vu46 3eb49ad176z2b.26z79rajfbb64 2rx8uov3ha0ik.3do6p7snrdbji 26x56fgxgjeuj.703em318g332 1obmrhzhvyct4.1vk8s0bhw5o40 onvbzx2llhod.1x0i9smn95zvr 1szyj2tx1mwzn.27aszdhkv1jto 2thqdj392r6w6.1xw5f2juodayu 13po6omyh1v0n.3rtg0fwuf0ndv
+serializedKlibFingerprint=2q8xk3ri5o3ks.995c8leqo3rc
+unique_name=com.vivek_bargude.simple_wesbsite\:site
+wasm_targets=wasm-js
