@@ -29,8 +29,6 @@ A minimal website project built using **Kobweb** and **JetBrains Compose for Web
 
 ![Dark Mode Screenshot](screenshots/dark_mode.png)
 
-> **Tip:** Your theme choice is saved in `localStorage` and auto-applied on reload.
-
 ---
 
 ## Features
