@@ -23,11 +23,11 @@ A minimal website project built using **Kobweb** and **JetBrains Compose for Web
 
 ### 🔆 Light Mode
 
-![Light Mode Screenshot](screenshots/light_mode.png)
+![Light Mode Screenshot](light_mode.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode Screenshot](screenshots/dark_mode.png)
+![Dark Mode Screenshot](dark_mode.png)
 
 ---
 
